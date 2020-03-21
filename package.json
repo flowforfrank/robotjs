@@ -1,0 +1,13 @@
+{
+    "name": "drawing-robot",
+    "version": "1.0.0",
+    "scripts": {
+        "draw": "node draw.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "robotjs": "0.6.0"
+    }
+}
